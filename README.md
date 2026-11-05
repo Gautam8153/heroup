@@ -1,2 +1,0 @@
-# heroup
-Static site
